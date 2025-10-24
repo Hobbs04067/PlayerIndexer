@@ -1,8 +1,18 @@
 [package]
 name = "hobbs04067/playerindexer"
-description = "A player 8bit integer ID system meant for network optimization. By default, Roblox Player instances cost 5 bytes to send over the network. This sytem uses a synced-index system to reduce the packet side from 40bits to 8. Documentation can be found on the GitHub repo!: "
-version = "0.1.0"
+description = "A player 8bit integer ID system meant for network optimization. By default, Roblox Player instances cost 5 bytes to send over the network. This sytem uses a synced-index system to reduce the packet side from 40bits to 8."
+version = "0.1.1"
 registry = "https://github.com/UpliftGames/wally-index"
+homepage = "https://github.com/Hobbs04067/PlayerIndexer"
 realm = "shared"
+
+exclude = ["**"]
+include = [
+    "src",
+    "src/*",
+    "default.project.json",
+    "wally.lock",
+    "wally.toml"
+]
 
 [dependencies]
