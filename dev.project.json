@@ -1,0 +1,12 @@
+{
+    "name": "playerindexer",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$ignoreUnknownInstances": true,
+            "PlayerIndexer": {
+                "$path": "src"
+            }
+        }
+    }
+}
