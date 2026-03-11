@@ -11,5 +11,5 @@ You can install this module through the [Wall Package](https://wally.run/package
 ### Example entries:
 Single-line:
 ```
-hobbs04067/playerindexer@0.1.4
+hobbs04067/playerindexer@0.1.5
 ```
