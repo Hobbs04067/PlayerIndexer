@@ -4,7 +4,7 @@ PlayerIndexer is a Wally-style package that can be used to reduce networking whe
 
 # Build — Wally installation
 
-You can install this module through the [Wall Package](https://wally.run/package/hobbs04067/playerindexer)
+You can install this module through the [Wally Package](https://wally.run/package/hobbs04067/playerindexer)
 
 1. Add the package to your project's `wally.toml`. 
 
